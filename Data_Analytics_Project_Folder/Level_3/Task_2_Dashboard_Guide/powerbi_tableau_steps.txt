@@ -1,0 +1,20 @@
+
+LEVEL 3 DASHBOARD TASK
+
+1. Open Power BI or Tableau.
+2. Import the dataset.
+3. Clean missing values and duplicates.
+4. Create:
+   - Bar Charts
+   - Line Charts
+   - Pie Charts
+   - KPI Cards
+5. Add filters and slicers.
+6. Build an interactive dashboard.
+7. Publish the dashboard.
+8. Export screenshots and reports.
+
+Recommended Dataset:
+- Stock Prices Dataset
+- Churn Dataset
+- Iris Dataset
